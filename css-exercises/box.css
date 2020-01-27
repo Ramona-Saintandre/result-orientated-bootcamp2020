@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+/* body{
     background-color: rgb(187, 138, 233);
     background-image: url(/css-exercises/images/candies.jpg);
     background-size: 900px 900px;
@@ -42,4 +42,17 @@ li{
     margin: 10px;
     border-radius: 15px;
     padding: 150px  150px 150px;
+} */
+div{
+    height: 200px;
+    width: 300px;
+}
+.a{
+    background-color: crimson;
+}
+.b{
+    background-color: darkblue;
+}
+.c{
+    background-color: darkgreen;
 }
