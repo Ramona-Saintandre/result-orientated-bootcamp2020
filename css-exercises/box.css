@@ -1,24 +1,36 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-div{
+div {
     height: 500px;
     width: 400px;
-     
+
 }
 
-.boxa{
-    border-width:10px 30px 30px 10px;
+.boxa {
+    border-width: 10px 30px 30px 10px;
     border-style: solid;
-    background-color: rgb(15, 139, 15);   
+    background-color: rgb(15, 139, 15);
     margin-top: 15px;
-   
-    
+    margin: 20px;
+    padding: 30px;
+
+
 }
-.boxb{
+
+ul .boxa{
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+}
+li{
+    align-content: center;
+    text-align: center;
+}
+.boxb {
     background-color: rgb(33, 204, 33);
     border: 10px inset blue;
     margin: 10px;
